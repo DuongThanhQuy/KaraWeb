@@ -1,0 +1,342 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.angnhap-ZHx {
+  width: 100%;
+  height: 81rem;
+  background-color: #f1f3f6;
+}
+.angnhap-ZHx .divmain-wrapper-VBc {
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divhero-wrap-nwQ {
+  width: 61.9rem;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divhero-wrap-nwQ .divhero-bg-jLr {
+  width: 61.898rem;
+  height: 81rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 112.505% 100%;
+  background-position: -5.7424rem 0.9679rem;
+  background-image: url('../assets/divhero-bg.png');
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divhero-wrap-nwQ .divhero-mask-Qxn {
+  opacity: 0.5;
+  width: 61.898rem;
+  height: 81rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divhero-wrap-nwQ .logo-2-lightpng-kFx {
+  width: 43.9rem;
+  height: 31.9rem;
+  position: relative;
+  left: 9rem;
+  top: -3.6rem;
+  background-size: 98.925% 100%;
+  background-position: -0rem -0rem;
+  background-image: url('../assets/logo-2-lightpng-id4.png');
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG {
+  box-sizing: border-box;
+  padding: 16.1rem 14.75rem 16.991rem 17.1rem;
+  width: 82.1rem;
+  height: 100%;
+  background-color: #111418;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-zzvg-haW {
+  box-sizing: border-box;
+  padding-bottom: 2.981rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-zzvg-haW .bn-cha-c-ti-khon-ng-k-dj4 {
+  margin: 0rem 0rem 1.55rem 0.002rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8000000545;
+  color: #dee3e4;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-zzvg-haW .bn-cha-c-ti-khon-ng-k-dj4 .bn-cha-c-ti-khon-ng-k-dj4-sub-0 {
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-zzvg-haW .bn-cha-c-ti-khon-ng-k-dj4 .bn-cha-c-ti-khon-ng-k-dj4-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.8000000545;
+  color: #0d6efd;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-zzvg-haW .ng-nhp-bng-ti-khon-ca-bn-dkz {
+  margin: 0rem 0rem 2.419rem 0.002rem;
+  display: flex;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.1999999455;
+  color: #ffffff;
+  font-family: IBM Plex Sans Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-zzvg-haW .buttonbtn-W46 {
+  margin-right: 28.767rem;
+
+  padding: 0.8rem 3.348rem 1rem 1.85rem;
+  width: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0d6efd;
+  background-color: #0d6efd;
+  border-radius: 0.48rem;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-zzvg-haW .buttonbtn-W46 .item--bLS {
+  margin: 0.1rem 2.585rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-zzvg-haW .buttonbtn-W46 .log-in-with-google-5WW {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .divd-flex-wHp {
+  width: 100%;
+  height: 2.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .divd-flex-wHp .hrcol-1-H6n {
+  margin: 1.019rem 1.604rem 0.981rem 0rem;
+  opacity: 0.2;
+  width: 3.998rem;
+  height: calc(100% - 2rem);
+  overflow: hidden;
+  position: relative;
+  background-color: rgba(108, 117, 125, 0.200000003);
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .divd-flex-wHp .hoc-z1C {
+  margin-right: 1.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #6c757d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .divd-flex-wHp .hrflex-grow-1-hgJ {
+  margin: 1.05rem 0rem 0.95rem 0rem;
+  opacity: 0.2;
+  width: 38.848rem;
+  height: calc(100% - 2rem);
+  overflow: hidden;
+  position: relative;
+  background-color: rgba(108, 117, 125, 0.200000003);
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe {
+  box-sizing: border-box;
+  padding-top: 3.019rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe .divmb-3-XfL {
+  margin-bottom: 1.799rem;
+  width: 48.1rem;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe .divmb-3-XfL .email-sz6 {
+  margin-bottom: 0.8rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #dee3e4;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe .divmb-3-XfL .email-sz6 .email-sz6-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #dee3e4;
+  font-family: IBM Plex Sans Condensed, 'Source Sans Pro';
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe .divmb-3-XfL .email-sz6 .email-sz6-sub-1 {
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe .divmb-3-XfL .inputemailaddress-6bx {
+  box-sizing: border-box;
+  padding: 1.395rem 1.636rem 1.396rem 1.636rem;
+  width: 100%;
+  height: 4.891rem;
+  border: solid 0.1rem #232a31;
+  background-color: #232a31;
+  border-radius: 0.4rem;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe .divmb-3-XfL .inputemailaddress-6bx .divplaceholder-Ru8 {
+  margin-right: 31.328rem;
+  width: 13.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #777b7f;
+  font-family: IBM Plex Sans Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe .divmb-3-VPC {
+  margin-bottom: 2.7rem;
+  width: 46.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe .divmb-3-VPC .auto-group-xig6-S3Y {
+  margin: 0rem 0.289rem 0.8rem 0rem;
+  width: calc(100% - 0.289rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe .divmb-3-VPC .auto-group-xig6-S3Y .mt-khu-8h4 {
+  margin: 0.1rem 28.911rem 0rem 0rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #dee3e4;
+  font-family: IBM Plex Sans Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe .divmb-3-VPC .auto-group-xig6-S3Y .qun-mt-khu-2nS {
+  cursor: pointer;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #0d6efd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe .divmb-3-VPC .inputloginpassword-Ykn {
+  box-sizing: border-box;
+  padding: 1.396rem 1.636rem 1.395rem 1.636rem;
+  width: 45.6rem;
+  height: 4.891rem;
+  border: solid 0.1rem #232a31;
+  background-color: #232a31;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe .divmb-3-VPC .inputloginpassword-Ykn .divplaceholder-sYA {
+  margin-right: 31.928rem;
+  width: 10.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #777b7f;
+  font-family: IBM Plex Sans Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.angnhap-ZHx .divmain-wrapper-VBc .divrow-3D8 .divcol-md-8-2jG .divcol-11-YxW .auto-group-jqxz-nxe .buttonbtn-Xsc {
+  width: 17.413rem;
+  height: 5.159rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #0d6efd;
+  box-sizing: border-box;
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.150000006);
+  background-color: #0d6efd;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
